@@ -1,0 +1,9 @@
+******* Projet RSA de Yutian Chen et Théodore Lambolez *************
+
+- make pour compiler les sources
+- ./MyAdBlock "port" (1234 par exemple)
+- ./Client "port" (même port)
+- ouvrir firefox (version Anglaise)
+- Preferences -> Advanced -> Network -> Connection Settings -> Manual Proxy Configuration -> HTTP Proxy : 127.0.0.1 Port 80
+
+La liste blacklist.txt peut-être modifiée
